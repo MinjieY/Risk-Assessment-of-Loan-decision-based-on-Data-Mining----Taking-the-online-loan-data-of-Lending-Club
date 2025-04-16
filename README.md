@@ -1,4 +1,4 @@
-# Undergraduate-design
+# 根据数据挖掘对贷款决策的风险评估 - 以某网站的在线贷款数据为例
 Risk Assessment of Loan decision based on Data Mining -- Taking the online loan data of Lending Club as an example
 
 链接：https://pan.baidu.com/s/1leekBNt0LNzLjOPErtin-A?pwd=qrjm 
